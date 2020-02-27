@@ -4,7 +4,7 @@ uses crt, sysutils;
 //if you want to setup board anywhere on the screen, note this:
 //widthStart + width <=110   ; default:91
 //heightStart + height <=30 ; default:28 
-//(widthStart,Heightstart) is the position where the top left corner of board is
+//(widthStart,Heightstart) is the position of the top left corner of the board
 const width  = 90;
       height = 24;
       widthStart = 4; 
